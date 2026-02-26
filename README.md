@@ -27,8 +27,11 @@ The goal of this project is to practice the TDD workflow: write tests first, wat
 │   ├── calculator.test.js
 │   ├── caesarCipher.test.js
 │   └── analyzeArray.test.js
+├── .gitignore
 ├── babel.config.js
-└── package.json
+├── package-lock.json
+├── package.json
+└── README.md
 ```
 
 ## Getting Started
