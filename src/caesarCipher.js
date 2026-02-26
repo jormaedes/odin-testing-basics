@@ -1,7 +1,7 @@
 export default function caesarCipher(str, n){
 	const alphaLow = 'abcdefghijklmnopqrstuvwxyz';
 	const alphaUp = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
-	if (n == 0) return str;
+	if (n <= 0) return str;
 	let res = '';
 	for(let i = 0; i < str.length; i++){
 		let l = alphaLow.indexOf(str[i]);
