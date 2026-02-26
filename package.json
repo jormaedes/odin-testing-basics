@@ -1,0 +1,20 @@
+{
+  "name": "odin-testing-basics",
+  "version": "1.0.0",
+  "description": "Testing Basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jormaedes/odin-testing-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jormaedes/odin-testing-basics/issues"
+  },
+  "homepage": "https://github.com/jormaedes/odin-testing-basics#readme"
+}
